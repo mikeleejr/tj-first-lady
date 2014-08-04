@@ -35,6 +35,13 @@ h1 {
 	line-height: 1em;
 }
 
+#my-cal {
+	font-family: 'Fontdiner Swanky', cursive;
+	font-size: 1.0em;
+	font-weight: bold;
+	color: gold;
+}
+
 /************************
 NAVIGATION
 ************************/
