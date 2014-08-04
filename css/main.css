@@ -80,10 +80,47 @@ h3{
 }
 
 /************************
+Page: Marriage
+************************/
+h2 {
+	text-align: center;
+}
+
+.phone-photo{
+	display: block;
+	max-width: 250px;
+	margin: 0 auto 30px;
+	border-radius: 30px/10px;
+}
+
+.iphone-photo{
+	display: block;
+	max-width: 250px;
+	margin: 0 auto 30px;
+	border-radius: 5px 20px 5px;
+
+}
+
+.telephone-photo {
+	display: block;
+	max-width: 250px;
+	margin: 0 auto 30px;
+	border-radius: 70%;
+}
+
+
+/************************
 Text color
 ************************/
 
 #story {
 	color: white;
 	padding: 0 30px 0 30px;
+}
+
+#wife {
+	text-align: center;
+	color: white;
+	padding: 0 30px 0 30px;
+	font-size: 1.5em;
 }
