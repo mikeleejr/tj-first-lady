@@ -84,6 +84,7 @@ Page: Marriage
 ************************/
 h2 {
 	text-align: center;
+
 }
 
 .phone-photo{
@@ -107,6 +108,21 @@ h2 {
 	margin: 0 auto 30px;
 	border-radius: 70%;
 }
+
+
+/************************
+Page: Media
+************************/
+
+iframe {
+	display: block;
+	margin: 30px auto 30px auto;
+	
+	/*margin-right: auto;margin-left: auto*/;
+}
+
+
+
 
 
 /************************
